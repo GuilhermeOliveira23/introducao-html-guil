@@ -1,0 +1,22 @@
+body{
+    background-color:beige}
+    p{color:rgb(173, 6, 6)}
+
+    #segundo{
+        font-size: 29px;
+        background-color:cyan;
+        color:royalblue;
+        border: 2px solid black;
+        border-radius: 10px}
+        
+    .diferente{
+    
+        font-size: 29px;
+        background-color:rgb(115, 255, 0);
+        color:rgb(231, 141, 23);
+        border: 2px solid black;
+        border-radius: 20px;
+        font-weight: bold}
+        
+
+    }
